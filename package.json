@@ -4,7 +4,7 @@
     "@apollo/client": "^3.7.17",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
-    "@floating-ui/react": "^0.24.3",
+    "@floating-ui/react": "^0.27.16",
     "@linaria/core": "^6.2.0",
     "@linaria/react": "^6.2.1",
     "@radix-ui/colors": "^3.0.0",
