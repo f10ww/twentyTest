@@ -11,7 +11,7 @@
     "lint": "eslint **/*.mdx --max-warnings=0"
   },
   "dependencies": {
-    "mintlify": "latest"
+    "mintlify": "4.2.211"
   },
   "engines": {
     "node": "^24.5.0",
